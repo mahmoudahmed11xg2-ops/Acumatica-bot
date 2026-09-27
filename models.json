@@ -1,0 +1,5 @@
+{
+  "models": [
+    { "id": "rox-01", "brandId": "rox", "name": "ROX 01", "enabled": true }
+  ]
+}

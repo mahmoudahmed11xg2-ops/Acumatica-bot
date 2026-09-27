@@ -1,0 +1,5 @@
+{
+  "brands": [
+    { "id": "rox", "name": "ROX Motor", "enabled": true }
+  ]
+}

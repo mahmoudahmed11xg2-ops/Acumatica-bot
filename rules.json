@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "id": "facebook-owner",
+      "enabled": true,
+      "conditions": [
+        { "field": "source", "operator": "equals", "value": "Facebook" }
+      ],
+      "action": { "field": "owner", "value": "Mohamed Wageh, Mr." }
+    }
+  ]
+}
