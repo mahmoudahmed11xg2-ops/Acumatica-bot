@@ -1,7 +1,0 @@
-{
-  "profiles": [
-    { "id": "fast", "name": "Fast", "speed": 300, "alarmEnabled": true },
-    { "id": "normal", "name": "Normal", "speed": 500, "alarmEnabled": true },
-    { "id": "safe", "name": "Safe", "speed": 900, "alarmEnabled": false }
-  ]
-}
