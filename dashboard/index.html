@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Acumatica Control Center</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <h1>Acumatica</h1>
+    <p>Control Center</p>
+    <nav>
+      <button data-section="dashboard" class="active">Dashboard</button>
+      <button data-section="settings">Settings</button>
+      <button data-section="fields">Fields</button>
+      <button data-section="sources">Sources</button>
+      <button data-section="brands">Brands</button>
+      <button data-section="models">Models</button>
+      <button data-section="rules">Rules</button>
+      <button data-section="profiles">Profiles</button>
+    </nav>
+  </aside>
+  <main>
+    <header><div><h2 id="title">Dashboard</h2><span id="status">Local prototype</span></div><button id="save">Save locally</button></header>
+    <section id="app"></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
