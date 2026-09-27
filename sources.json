@@ -1,9 +1,0 @@
-{
-  "sources": [
-    { "id": "facebook", "label": "Facebook", "acumaticaValue": "Facebook", "enabled": true },
-    { "id": "google", "label": "Google", "acumaticaValue": "Google", "enabled": true },
-    { "id": "referral", "label": "Referral", "acumaticaValue": "Referral", "enabled": true },
-    { "id": "organic", "label": "Organic Search", "acumaticaValue": "Organic Search", "enabled": true },
-    { "id": "other", "label": "Other", "acumaticaValue": "Other", "enabled": true }
-  ]
-}
