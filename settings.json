@@ -1,9 +1,0 @@
-{
-  "speed": 500,
-  "alarmEnabled": true,
-  "autoRefresh": true,
-  "showPanel": true,
-  "showSuccessMessage": true,
-  "showErrorMessage": true,
-  "debugMode": false
-}
